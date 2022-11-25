@@ -1,0 +1,46 @@
+,name,height_cm,weight_kg,body_mass_index,birth_month,corrected_iq
+0,George Washington,188,79.4,22.5,2,140.0
+1,John Adams,170,83.9,29.0,10,155.0
+2,Thomas Jefferson,189,82.1,23.0,4,160.0
+3,James Madison,163,55.3,20.8,3,160.0
+4,James Monroe,183,85.7,25.6,4,139.0
+5,John Quincy Adams,171,92.1,31.5,7,175.0
+6,Andrew Jackson,185,63.5,18.6,3,145.0
+7,Martin Van Buren,168,74.4,26.4,12,146.0
+8,William Henry Harrison,173,73.5,24.6,2,146.0
+9,John Tyler,183,72.6,21.7,3,148.0
+10,James Knox Polk,173,78.9,26.4,11,143.0
+11,Zachary Taylor,173,104.3,34.8,11,140.0
+12,Millard Fillmore,175,65.3,21.3,1,149.0
+13,Franklin Pierce,178,73.5,23.2,11,147.0
+14,James Buchanan,183,98.4,29.4,4,140.0
+15,Abraham Lincoln,193,83.9,22.5,2,150.0
+16,Andrew Johnson,178,69.9,22.1,12,140.0
+17,Ulysses Simpson Grant,173,70.8,23.7,4,130.0
+18,Rutherford Birchard Hayes,174,79.4,26.2,10,146.0
+19,James Abram Garfield,183,90.7,27.1,11,152.0
+20,Chester Alan Arthur,188,101.6,28.7,10,152.0
+21,Stephen Grover Cleveland,180,117.9,36.4,3,144.0
+22,Benjamin Harrison,168,72.6,25.7,8,145.0
+23,William McKinley,170,90.3,31.2,1,143.0
+24,Theodore Roosevelt,178,107.5,33.9,10,153.0
+25,William Howard Taft,182,154.2,46.6,9,140.0
+26,Thomas Woodrow Wilson,180,77.1,23.8,12,155.0
+27,Warren Gamal Harding,183,78.5,23.4,11,140.0
+28,John Calvin Coolidge,178,70.8,22.3,7,142.0
+29,Herbert Clark Hoover,182,84.8,25.6,8,142.0
+30,Franklin Delano Roosevelt,188,86.2,24.4,1,151.0
+31,Harry S Truman,175,75.7,24.7,5,140.0
+32,Dwight David Eisenhower,179,78.0,24.3,10,145.0
+33,John Fitzgerald Kennedy,185,79.4,23.2,5,160.0
+34,Lyndon Baines Johnson,192,95.3,25.9,8,141.0
+35,Richard Milhous Nixon,182,79.4,24.0,1,143.0
+36,Gerald Rudolph Ford,183,86.2,25.7,7,140.0
+37,James Earl Carter,177,80.3,25.6,10,157.0
+38,Ronald Wilson Reagan,185,81.6,23.8,2,142.0
+39,George Herbert Walker Bush,188,88.5,25.0,6,143.0
+40,William Jefferson Clinton,188,101.2,28.6,8,159.0
+41,George Walker Bush,182,84.4,25.5,6,139.0
+42,Barack Hussein Obama,185,81.6,23.8,8,
+43,Donald John Trump,191,107.5,29.5,6,
+44,Joseph Robinette Biden,182,80.7,24.4,11,
